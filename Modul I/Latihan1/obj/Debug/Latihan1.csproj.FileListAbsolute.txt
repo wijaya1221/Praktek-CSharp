@@ -1,0 +1,6 @@
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan1\bin\Debug\Latihan1.exe.config
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan1\bin\Debug\Latihan1.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan1\bin\Debug\Latihan1.pdb
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan1\obj\Debug\Latihan1.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan1\obj\Debug\Latihan1.pdb
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan1\obj\Debug\Latihan1.csprojResolveAssemblyReference.cache

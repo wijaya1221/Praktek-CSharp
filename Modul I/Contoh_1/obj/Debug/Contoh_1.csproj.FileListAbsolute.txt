@@ -1,0 +1,6 @@
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_1\bin\Debug\Contoh_1.exe.config
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_1\bin\Debug\Contoh_1.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_1\bin\Debug\Contoh_1.pdb
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_1\obj\Debug\Contoh_1.csprojResolveAssemblyReference.cache
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_1\obj\Debug\Contoh_1.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_1\obj\Debug\Contoh_1.pdb

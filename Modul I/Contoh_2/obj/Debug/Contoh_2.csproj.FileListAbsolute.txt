@@ -1,0 +1,5 @@
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_2\bin\Debug\Contoh_2.exe.config
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_2\bin\Debug\Contoh_2.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_2\bin\Debug\Contoh_2.pdb
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_2\obj\Debug\Contoh_2.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Contoh_2\obj\Debug\Contoh_2.pdb

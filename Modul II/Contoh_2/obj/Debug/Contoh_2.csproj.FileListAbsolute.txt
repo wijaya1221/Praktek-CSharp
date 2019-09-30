@@ -1,0 +1,6 @@
+D:\Belajar\C#\Modul II\Contoh_2\bin\Debug\Contoh_2.exe.config
+D:\Belajar\C#\Modul II\Contoh_2\bin\Debug\Contoh_2.exe
+D:\Belajar\C#\Modul II\Contoh_2\bin\Debug\Contoh_2.pdb
+D:\Belajar\C#\Modul II\Contoh_2\obj\Debug\Contoh_2.csprojResolveAssemblyReference.cache
+D:\Belajar\C#\Modul II\Contoh_2\obj\Debug\Contoh_2.exe
+D:\Belajar\C#\Modul II\Contoh_2\obj\Debug\Contoh_2.pdb

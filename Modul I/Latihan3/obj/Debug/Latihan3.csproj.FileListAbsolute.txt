@@ -1,0 +1,5 @@
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan3\bin\Debug\Latihan3.exe.config
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan3\bin\Debug\Latihan3.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan3\bin\Debug\Latihan3.pdb
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan3\obj\Debug\Latihan3.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Modul I\Latihan3\obj\Debug\Latihan3.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoh_1", "Contoh_1\Contoh_1.csproj", "{BCE5E031-757C-4155-AAAE-E1CAF8B44458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoh_2", "Contoh_2\Contoh_2.csproj", "{CBE01375-7201-46E5-B59A-7F702BAFEADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan1", "Latihan1\Latihan1.csproj", "{61F8DA1F-1DD9-4EEF-91CA-ADCADE5EC1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE5E031-757C-4155-AAAE-E1CAF8B44458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE5E031-757C-4155-AAAE-E1CAF8B44458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE5E031-757C-4155-AAAE-E1CAF8B44458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE5E031-757C-4155-AAAE-E1CAF8B44458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE01375-7201-46E5-B59A-7F702BAFEADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE01375-7201-46E5-B59A-7F702BAFEADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE01375-7201-46E5-B59A-7F702BAFEADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE01375-7201-46E5-B59A-7F702BAFEADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F8DA1F-1DD9-4EEF-91CA-ADCADE5EC1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F8DA1F-1DD9-4EEF-91CA-ADCADE5EC1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F8DA1F-1DD9-4EEF-91CA-ADCADE5EC1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F8DA1F-1DD9-4EEF-91CA-ADCADE5EC1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
